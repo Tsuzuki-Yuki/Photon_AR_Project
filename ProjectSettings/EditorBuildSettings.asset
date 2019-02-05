@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/StandBy.unity
+    guid: a292e214f991f47e3a045840d06136fb
+  - enabled: 1
+    path: Assets/Scenes/Standalone.unity
+    guid: e6cc085a6418e45b5a3ad8c943d9117f
   m_configObjects: {}
